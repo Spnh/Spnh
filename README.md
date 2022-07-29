@@ -1,6 +1,6 @@
 <div>
   <h1>Olá, me chamo Gabriel Espinha!</h1>
-  <p>Tenho 16 anos, estou inicando os meus estudos em informatica.<br> Comecei a cursar o ensino médio técnico no início de 2021, desde de então venho estudando HTML5 CSS3 e mais recentemente JavaScript.</p>
+ 
  
   <div align="center">
   <a href="https://github.com/spnh">
